@@ -7,7 +7,7 @@ Creating VMs and configure Inbound Outbound Rules
 ![image](https://github.com/user-attachments/assets/1f98f9f3-4519-4037-9d7d-55b1eb43c07c)
 ![image](https://github.com/user-attachments/assets/73708803-d0d4-4199-a560-438eb00683b4)
 
-
+###### Delete All the Instances After the Project or Deactivate!
 
 ### Creating a VPC - Virtual private Cloud
 
