@@ -475,6 +475,9 @@ AKIAR7HWX7VV2ZXEF22L
 w0c6BTVeEnTzaZ4neBVN+ht1wzBdoFBf6XREuN8V
 ```
 If the events wont work properly please ensure that your JSON code, Configurations are correct otherwise it won't work properly.....
+Make sure Your Access Key has been used by the Security Onion 
+
+![image](https://github.com/user-attachments/assets/a325453b-4b95-4de6-8962-c591ef8200a4)
 
 ##### Credits<br>Nicole Enesse - <a href='https://www.youtube.com/watch?v=cwhvndEfuRw'> YouTube Channel </a><br>
 
